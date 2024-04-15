@@ -1,5 +1,7 @@
 # icebreaker-book
 
+<img src="https://github.com/PierreEmer/icebreaker-book/blob/main/ib.png"/>
+
 ___
 
 *Anastasia Allen has worked her entire life for a shot at Team USA. It looks like everything is going according to plan when she gets a full scholarship to the University of California, Maple Hills and lands a place on their competitive figure skating team*
@@ -10,3 +12,6 @@ ___
 
 *But when Anastasia’s skating partner faces an uncertain future, she may have to look to Nate to take her shot*
 
+___
+
+<img src="https://github.com/PierreEmer/icebreaker-book/blob/main/dl.png"/>
